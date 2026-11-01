@@ -7,7 +7,7 @@
 ### Обо мне
 Меня зовут **Dill** или **Dilleysky**
 
-$${\color{#0018FF}<}{\color{#3012FF}меня}{\color{#600CFF}зовут}{\color{#9006FF}Дилл}{\color{#C000FF}или}{\color{#F000FF}}
+{\color{#3012FF}меня}{\color{#600CFF}зовут}{\color{#9006FF}dill}{\color{#C000FF}или}{\color{#F000FF}Dilleysky}
 
 
 **Обращение:**  
