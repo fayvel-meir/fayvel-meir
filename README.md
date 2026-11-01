@@ -7,13 +7,15 @@
 ### Обо мне
 Меня зовут **Dill** или **Dilleysky**
 
+<br clear="all" />
+
 {\color{#3012FF}меня}{\color{#600CFF}зовут}{\color{#9006FF}dill}{\color{#C000FF}или}{\color{#F000FF}Dilleysky}
 
 
 **Обращение:**  
 - Для незнакомцев: **he/him**  
 - Для друзей: **he/she**
-<br clear="all" />
+
 
 <p align="center">
   <img src="https://github.com/drugslover/drugslover/blob/2b24974820fb690eb04246106bfba9b8e8508f4e/Picsart_26-10-18_20-20-16-979.png" width="500" alt="ДИЛЛ ТЫ УМРЕШ(((((">
