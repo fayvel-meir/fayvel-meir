@@ -9,7 +9,7 @@
 
 <br clear="all" />
 
-$$\text{{\color{#3012FF}my} {\color{#600CFF}name} {\color{#9006FF}dill} {\color{#C000FF}or} {\color{#FF00CC}dilleysky}$$
+$$\text{{\color{#3012FF}my}{\color{#600CFF}name}{\color{#9006FF}dill}{\color{#C000FF}or}{\color{#FF00CC}dilleysky}$$
 
 
 
