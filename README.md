@@ -5,7 +5,7 @@
 ## more info 4 me !.
 
 ### Обо мне
-$${\color{#0018FF}Меня $$  $${\color{#3B00EF}зовут$$   $${\color{#6E00D9}**Dill**$$  $${\color{#A100C4}или $$  $${\color{#D300AE}**Dilleysky**$$
+$${\color{#0018FF}Меня $${\color{#3B00EF}зовут$$ {\color{#6E00D9}**Dill**  $${\color{#A100C4}или  $${\color{#D300AE}**Dilleysky**$$
 
 **Обращение:**  
 - Для незнакомцев: **he/him**  
