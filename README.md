@@ -1,19 +1,19 @@
 <img align="left" width="300" src="https://github.com/drugslover/drugslover/blob/2b24974820fb690eb04246106bfba9b8e8508f4e/Picsart_26-10-18_19-54-01-542.png">
-<img align="right" width="300" src="https://github.com/drugslover/drugslover/blob/2b24974820fb690eb04246106bfba9b8e8508f4e/Picsart_26-10-18_19-54-01-542.png">
 <p>  𓍼 . mhm . haii (^ω^) </p>
 
-## more info 4 me !.
+# more info 4 me !.
 
 ### Обо мне
 
 $\text{\color{#3012FF}my}\ \text{\color{#600CFF}name}\ \text{\color{#9006FF}Dill}\ \text{\color{#C000FF}or}\ \text{\color{#FF00CC}Dilleysky}$
 
+**Обращение:**  
+- $\text{\color{#5938ff}Для]\ \text{\color{#8523f3}незнакомцев:}\ \text{\color{#a800db}**he/him**}}$  
+- $\text{\color{#a800db}Для}\ \text{\color{#8523f3}друзей:}\ \text{\color{#5938ff}**he/she**}}$
+  
 <br clear="all" />
 
-**Обращение:**  
-- Для незнакомцев: **he/him**  
-- Для друзей: **he/she**
-
+---
 
 <p align="center">
   <img src="https://github.com/drugslover/drugslover/blob/2b24974820fb690eb04246106bfba9b8e8508f4e/Picsart_26-10-18_20-20-16-979.png" width="500" alt="ДИЛЛ ТЫ УМРЕШ(((((">
