@@ -9,7 +9,7 @@
 
 <br clear="all" />
 
-{\color{#3012FF}меня}{\color{#600CFF}зовут}{\color{#9006FF}dill}{\color{#C000FF}или}{\color{#F000FF}Dilleysky}
+{\color{#3012FF}my}{\color{#600CFF}name}{\color{#9006FF}dill}{\color{#C000FF}or}{\color{#F000FF}Dilleysky}
 
 
 **Обращение:**  
