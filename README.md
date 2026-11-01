@@ -6,7 +6,7 @@
 
 ### Обо мне
 
-$\text{\color{#3012FF}my}\ \text{\color{#600CFF}name}\ \text{\color{#9006FF}dill}\ \text{\color{#C000FF}or}\ \text{\color{#FF00CC}dilleysky}$
+$\text{\color{#3012FF}my}\ \text{\color{#600CFF}name}\ \text{\color{#9006FF}Dill}\ \text{\color{#C000FF}or}\ \text{\color{#FF00CC}Dilleysky}$
 
 <br clear="all" />
 
