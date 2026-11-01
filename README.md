@@ -8,8 +8,10 @@
 $\text{\color{#3012FF}my}\ \text{\color{#600CFF}name}\ \text{\color{#9006FF}Dill}\ \text{\color{#C000FF}or}\ \text{\color{#FF00CC}Dilleysky}$
 
 **Обращение:**  
-$\text{\color{#5938ff}Для}\ \text{\color{#8523f3}незнакомцев:}\ \text{\color{#a800db}he/him}}$$  
-$\text{\color{#a800db}Для}\ \text{\color{#8523f3}друзей:}\ \text{\color{#5938ff}he/she}}$$
+$\text{\color{#5938ff}Для}\ \text{\color{#8523f3}незнакомцев:}\ \text{\color{#a800db}\textbf{he/him}}$
+
+$\text{\color{#a800db}Для}\ \text{\color{#8523f3}друзей:}\ \text{\color{#5938ff}\textbf{he/she}}$
+
   
 <br clear="all" />
 
