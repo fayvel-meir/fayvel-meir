@@ -5,14 +5,10 @@
 ## more info 4 me !.
 
 ### Обо мне
-Меня зовут **Dill** или **Dilleysky**
 
-<br clear="all" />
-
-${\text{\color{#3012FF}my} {\color{#600CFF}name} {\color{#9006FF}dill} {\color{#C000FF}or} {\color{#FF00CC}dilleysky}}$
 $\text{\color{#3012FF}my}\ \text{\color{#600CFF}name}\ \text{\color{#9006FF}dill}\ \text{\color{#C000FF}or}\ \text{\color{#FF00CC}dilleysky}$
 
-
+<br clear="all" />
 
 **Обращение:**  
 - Для незнакомцев: **he/him**  
