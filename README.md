@@ -24,7 +24,7 @@ $\text{\color{#a800db}Для}\ \text{\color{#8523f3}друзей:}\ \text{\color
 
    <p align="center">
      
-$${\color{#120A8F}Тип личности: SP8, sp/sx 873, 8w7 - lvl 9, unhealthy ESTP, SLE, SLUEI, 1V-2E-3F-4S, VEFS.}$$
+$\text{\color{#172bb0}Тип}\ \text{color{#0043bc}личности:}\ \text{color{#005dac}SP8,}\ \text{color{#006faa}sp/sx}\ \text{color{#007fac}873}\, \text{color{#008faf}8w7}\ \text{color{#009fb2}-lvl 9,}\ \text{color{#00afb3}unhealthy}\ ESTP, \text{color{#00c0b3}SLE}\, \text{color{#00e2a4}SLUEI}\, \text{color{#14f095}1V-2E-3F-4S}\, \text{color{#70fa87}VEFS.}}$
 
  </p>
  
