@@ -2,4 +2,6 @@ $$\huge{\color{#64041f}w}{\color{#69132e}e}{\color{#6f1e3b}l}{\color{#732849}c}{
 
 ---
 
-welcome home. 
+<p align="center">
+  <img src="doughael6.webp" width="500" alt="">
+</p>
