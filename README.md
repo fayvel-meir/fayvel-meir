@@ -3,11 +3,10 @@ $$\huge{\color{#64041f}w}{\color{#69132e}e}{\color{#6f1e3b}l}{\color{#732849}c}{
 <p align="center">
   <img src="doughael6.webp" width="500" alt="">
  </p>
-
----
  
 ![Typing SVG](https://readme-typing-svg.demolab.com/?pause=10&duration=2500&color=6f1e3b&lines=SWEET+RELIGION%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B;blood+is+spilling;blood+is+spilling;SWEET+RELIGION%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B;Prosecute+the+Weak+and+Willing.)
 
+---
 
 <img src="doughael8.jpg" alt="Описание" width="250" align="right" /> 
 
