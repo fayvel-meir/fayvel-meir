@@ -10,5 +10,5 @@ $$\huge{\color{#64041f}w}{\color{#69132e}e}{\color{#6f1e3b}l}{\color{#732849}c}{
 
 
 <img src="doughael8.jpg" alt="Описание" width="250" align="right" /> 
-$$\huge{\color{#64041f}DNI:}$$ $$\huge{\color{#64041F}b}{\color{#650621}a}{\color{#773256}s}{\color{#8A6A99}i}{\color{#8A6A99}c}$$ 
+$$\huge{\color{#64041f}DNI:}\color{#64041F}b}{\color{#650621}a}{\color{#773256}s}{\color{#8A6A99}i}{\color{#8A6A99}c}$$ 
 <br clear="right" />
